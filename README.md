@@ -77,10 +77,11 @@ contract DeFiLending {
 
 ```
 # Output :
-![Screenshot 2025-04-21 133511](https://github.com/user-attachments/assets/1232f000-7103-4caf-8521-740f0b2d7db3)
-![Screenshot 2025-04-21 134555](https://github.com/user-attachments/assets/fea38c9f-71c8-4486-9d91-4fcfe49fa24e)
-![Screenshot 2025-04-21 134631](https://github.com/user-attachments/assets/285e89fe-b510-4ec6-b385-e775b03a8f1d)
-![Screenshot 2025-04-21 134720](https://github.com/user-attachments/assets/4d2e76ed-0e34-461e-86e4-ba1c755ecfb4)
+![1](https://github.com/user-attachments/assets/1fcb1567-38c6-4f2f-80a5-90fd037d4716)
+![2](https://github.com/user-attachments/assets/6e740e04-e62f-447a-91f2-429da8717428)
+![3](https://github.com/user-attachments/assets/dc1e3d63-559a-473f-b6b0-42ef7cd70682)
+![4](https://github.com/user-attachments/assets/733ae05d-62ce-4496-94d3-97b598c799c0)
+
 
 
 # RESULT : 
